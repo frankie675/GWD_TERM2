@@ -1,0 +1,95 @@
+h1, h2, h3, h4, h5 {
+    font-family: "apparat", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    }
+    h1{
+        font-size: 60px;
+    }
+    h4{
+        font-size: 40px;
+    }
+p {
+    font-family: "apparat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.navbar, .navbar-expand-md {
+background-color:#ebcd4e;
+}
+body{
+    background-color:#ebcd4e; 
+}
+.bg-yellow{
+    background-color:#ebcd4e;;
+    color:#333436;
+    max-width: 100%; 
+    padding-left: 0;
+    padding-right: 0;
+}
+.bg-dark{
+    background-color:#333436;
+    color:#ebcd4e; 
+    padding-left: 0%;
+    padding-right: 0%;
+    max-width: 100%;
+}
+/*! TICKER TAPE*/
+.news-container{
+    padding-left: 0%;
+    padding-right: 0%;
+    max-width: 100%;
+}
+
+.news{
+    max-width: 100%;
+}
+.news-scroll a{
+    text-decoration: none;
+    color:#ebcd4e;
+}
+.dot{
+    height: 6px;
+    width: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 2px !important;
+    background-color: rgb(207,23,23);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.btn-yellow {
+    color: #333436;
+    background-color: #ebcd4e;
+    border-color: #ebcd4e;
+    box-shadow: #ffffff ;
+    font-family: "apparat", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    
+}
+.btn-dark {
+    color: #ebcd4e;
+    background-color: #333436;
+    border-color: #333436;
+    box-shadow: #000000 ;
+    font-family: "apparat", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    
+}
+
+    /*! 
+font-family: "apparat", sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: "apparat", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: "apparat-light", sans-serif;
+font-weight: 400;
+font-style: normal;
+*/
