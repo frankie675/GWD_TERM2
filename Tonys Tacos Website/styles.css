@@ -75,6 +75,8 @@ body{
     border-color: #ebcd4e;
     --bs-btn-hover-bg: #333436;
     --bs-btn-hover-border-color:#ebcd4e;
+    --bs-btn-active-bg: #333436;
+    --bs-btn-active-border-color:#333436;
     box-shadow: #ffffff ;
     font-family: "apparat", sans-serif;
     font-weight: 800;
